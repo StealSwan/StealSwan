@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <div align=center>
 
 ## 🌹 t e c h 🌹 
-(some icons are connected with my blog :))
+(some icons are connected with my blog)
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/StealSwan/Semi_BookStore) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/StealSwan/TIL-HTML_CSS) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/StealSwan/Profitable_App_Making) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/StealSwan/TIL_EveryWorkspace_Spring)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/StealSwan/Semi_BookStore) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://stealswan.tistory.com/167?category=1017990) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/StealSwan/Profitable_App_Making) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/StealSwan/TIL_EveryWorkspace_Spring)
 <br>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://stealswan.tistory.com/96?category=1023112) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/StealSwan/SistFinalProject) 
