@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 ## 🌹 t e c h 🌹 
-###(Some icons are connected with other pages. You can check in my pinned repos)
+(Some icons are connected with other pages. You can check in my pinned repos)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/StealSwan/Semi_BookStore) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://maskmbti.netlify.app) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://mycatlife.netlify.app) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/StealSwan/TIL_EveryWorkspace_Spring)
 <br>
@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStealSwan&count_bg=%23DFACAC&title_bg=%23E371D6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br><br><br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StealSwan&show_icons=true&theme=radical)
+ 
 </div>
