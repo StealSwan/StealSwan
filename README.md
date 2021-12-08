@@ -48,5 +48,10 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StealSwan&show_icons=true&theme=buefy)
+  
+<br><br><br>
+ 
+![trophy](https://github-profile-trophy.vercel.app/?username=StealSwan) 
+ 
  
 </div>
