@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 
-<h2>Hellow My name is SuHwan-Kim. You can call me Swan 😉</h2>
+<h2>Hello It's me! SuHwan-Kim! You can call me Swan 😉</h2>
 <p> 👩‍🦰 Hope to learn more about DB & Comfortable Frontend! </p>
 <p> 🎃 I'm digging Funny UI/UX </p>
 <p> ✈ Learning eficient DB building process. </p>
