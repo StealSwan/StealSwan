@@ -22,8 +22,21 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CreateNewWorld🦢&fontSize=70)
 
+
+
 <div align=center>
 
+
+<h2>Hellow My name is SuHwan-Kim. You can call me Swan 😉</h2>
+<p> 👩‍🦰 Hope to learn more about DB & Comfortable Frontend! </p>
+<p> 🎃 I'm digging Funny UI/UX </p>
+<p> ✈ Learning eficient DB building process. </p>
+<p> 🍂 Does anyone who hates taking a note? https://stealswan.tistory.com/</p>
+<p> 🏃‍♂️ Becoming a tree with people who more like sunshine </p>
+<p> 🎇 Portfolio https://www.notion.so/24f0846dd4f841b7bb2f7cf5b500f15b </p>   
+<br><br><br>
+ 
+ 
 ## 🌹 t e c h 🌹 
 (Some icons are connected with other pages. You can check in my pinned repos)
 
