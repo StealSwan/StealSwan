@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
  
 ## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://stealswan.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:vatican0@naver.com) [![BookStack](https://img.shields.io/badge/Portfolio-1572B6?style=flat-square&logo=BookStack&logoColor=white)](https://www.notion.so/24f0846dd4f841b7bb2f7cf5b500f15b)
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://stealswan.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:vatican0@naver.com) [![BookStack](https://img.shields.io/badge/Portfolio-1572B6?style=flat-square&logo=BookStack&logoColor=white)](https://telling-element-fe7.notion.site/24f0846dd4f841b7bb2f7cf5b500f15b)
 <br><br><br><br>
 
 
